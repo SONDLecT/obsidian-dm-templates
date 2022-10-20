@@ -32,7 +32,7 @@ title: Three Fantastic Aspects of <%tp.file.title%>
 ```
 
 # <% tp.file.title %> Map(s):
-```ad-info
+````ad-info
 title: Map
 collapse: open
 
@@ -43,6 +43,7 @@ defaultZoom: 6
 zoomDelta: .5 
 scale: 145
 ```
+````
 
 ```ad-info
 title: Regional Map
@@ -52,10 +53,11 @@ collapse: open
 
 
 ---
-```ad-example
+````ad-example
 title: Mentions in Session Notes
 ```dataview
 TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
 ```
+````
 
 <% await tp.file.move("/dnd/location/" + tp.file.title) %>
