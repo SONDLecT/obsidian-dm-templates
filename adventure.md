@@ -59,7 +59,7 @@ title: Campaign Fronts:
 **Three Grim Portents:**
 ```
 
-```ad-tldr
+````ad-tldr
 title: Player Characters in <%tp.file.title%>
 ```dataview
 TABLE
@@ -70,12 +70,14 @@ ddb_link AS "link:",
 player AS "Player"
 FROM #player-characters AND [[<%tp.file.title%>]]
 ```
+````
 
 
 ---
-```ad-example
+````ad-example
 title: Mentions in Session Notes
 ```dataview
 TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
 ```
+````
 
