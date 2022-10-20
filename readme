@@ -13,7 +13,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 * Automatic file management/organization using templater
 * Dataview Tables - Each template also comes with dataview tables preconfigured that display information such as "Player characters that are part of this adventure" or "Mentions of [this note] in #Session-notes"
 * Helpful prompts and work-book style templates, using lessons borrowed from Mike Shea's "Lazy Dungeonmaster" and "How to Be a Great GM" schools of Dungeon Mastering. 
-
+* Interconnectedness - templates are designed to work with each other. Player Characters are referenced in Session Notes. Locations reference other locations. 
 
 
 
