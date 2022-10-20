@@ -35,8 +35,9 @@ type: "player-characters"
 
 
 ---
-```ad-example
+````ad-example
 title: Mentions in Session Notes
 ```dataview
 TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
 ```
+````
