@@ -15,5 +15,19 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 * Helpful prompts and work-book style templates, using lessons borrowed from Mike Shea's "Lazy Dungeonmaster" and "How to Be a Great GM" schools of Dungeon Mastering. 
 * Interconnectedness - templates are designed to work with each other. Player Characters are referenced in Session Notes. Locations reference other locations. 
 
+# Examples and Screenshots:
 
+## NPC:
+![npc screenshot](/npc-screenshot.png)
 
+## Adventure / Campaign
+![This is a screenshot of what an Adventure or Campaign note would look like with this template](/adventure-screenshot.png)
+
+## Item
+![This is a screenshot of what an Item note would look like with this template](/item-screenshot.png)
+
+## Session Notes
+![This is a screenshot of what a Session Note would look like with this template](/session-notes-screenshot.png)
+
+## Location Notes
+![This is a screenshot of what a Location note would look like with this template](/location-screenshot.png)
